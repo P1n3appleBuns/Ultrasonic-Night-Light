@@ -37,17 +37,17 @@ This project is an Ultrasonic Night Light that automatically activates LED light
 The Arduino code uses the NewPing library (or built-in pulse measurement) to read distance data from the ultrasonic sensor. A simple if-else logic checks for objects within range and toggles the LED state. Timing is handled using the millis() function to avoid blocking delays.
 
 # 🔋 Applications
-*Automatic night lights in hallways or bedrooms
+* Automatic night lights in hallways or bedrooms
 
-*Motion-activated lights for dark storage spaces or closets
+* Motion-activated lights for dark storage spaces or closets
 
-*Entryway illumination when someone approaches
+* Entryway illumination when someone approaches
 
 # 🚀 Future Improvements
-*Add a PIR motion sensor for more reliable human detection
+* Add a PIR motion sensor for more reliable human detection
 
-*Implement brightness control (PWM) based on ambient light
+* Implement brightness control (PWM) based on ambient light
 
-*Power using a battery pack for portability
+* Power using a battery pack for portability
 
-*Encase the circuit in a 3D-printed housing for a polished look
+* Encase the circuit in a 3D-printed housing for a polished look
