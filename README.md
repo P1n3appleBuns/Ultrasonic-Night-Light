@@ -3,26 +3,26 @@
 This project is an Ultrasonic Night Light that automatically activates LED lights for a set period of time when motion or proximity is detected. It is a simple, beginner-friendly Arduino project that demonstrates the use of ultrasonic sensors for distance measurement and basic automation with microcontrollers.
 
 # ✨ Features
--Automatic LED Activation: Turns on LED lights when an object or person passes within a specified distance range.
+* Automatic LED Activation: Turns on LED lights when an object or person passes within a specified distance range.
 
--Timed Lighting: LEDs remain lit for a configurable duration before turning off automatically.
+* Timed Lighting: LEDs remain lit for a configurable duration before turning off automatically.
 
--Energy Efficient: Lights are only activated when movement is detected, reducing unnecessary power consumption.
+* Energy Efficient: Lights are only activated when movement is detected, reducing unnecessary power consumption.
 
--Adjustable Detection Range: Sensor distance threshold can be easily modified in the code to suit different setups.
+* Adjustable Detection Range: Sensor distance threshold can be easily modified in the code to suit different setups.
 
 # 🛠 Components Used
--Arduino UNO (Microcontroller board)
+* Arduino UNO (Microcontroller board)
 
--HC-SR04 Ultrasonic Distance Sensor (Detects object proximity)
+* Ultrasonic Distance Sensor (Detects object proximity)
 
--LED(s) (Night light output)
+* LED(s) (Night light output)
 
--Resistors (Current limiting for LEDs)
+* Resistors (Current limiting for LEDs)
 
--Breadboard and jumper wires (Prototyping connections)
+* Breadboard and jumper wires (Prototyping connections)
 
--(Optional) External Power Supply for standalone operation
+* (Optional) External Power Supply for standalone operation
 
 # 🔧 How It Works
 1. The ultrasonic sensor continuously measures the distance between itself and nearby objects.
