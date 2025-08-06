@@ -34,7 +34,7 @@ This project is an Ultrasonic Night Light that automatically activates LED light
 4. This creates a hands-free, automatic night light experience ideal for dark rooms, hallways, or closets.
 
 # 🖥 Code Overview
-The Arduino code uses the NewPing library (or built-in pulse measurement) to read distance data from the ultrasonic sensor. A simple if-else logic checks for objects within range and toggles the LED state. Timing is handled using the millis() function to avoid blocking delays.
+The Arduino code uses the NewPing library (or built-in pulse measurement) to read distance data from the ultrasonic sensor. A simple if-else logic checks for objects within range and toggles the LED state.
 
 # 🔋 Applications
 * Automatic night lights in hallways or bedrooms
