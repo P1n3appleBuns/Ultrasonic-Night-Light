@@ -14,7 +14,7 @@ This project is an Ultrasonic Night Light that automatically activates LED light
 * Adjustable Detection Range: Sensor distance threshold can be easily modified in the code to suit different setups.
 
 # Components Used
-* Arduino UNO (Microcontroller board)
+* Arduino UNO R4 WIFI (Microcontroller board)
 
 * Ultrasonic Distance Sensor (Detects object proximity)
 
@@ -34,9 +34,6 @@ This project is an Ultrasonic Night Light that automatically activates LED light
 3. The LEDs remain on for a predefined duration (e.g., 10 seconds) and then turn off automatically until the next detection.
 
 4. This creates a hands-free, automatic night light experience ideal for dark rooms, hallways, or closets.
-
-# Code Overview
-The Arduino code uses the NewPing library (or built-in pulse measurement) to read distance data from the ultrasonic sensor. A simple if-else logic checks for objects within range and toggles the LED state.
 
 # Applications
 * Automatic night lights in hallways or bedrooms
