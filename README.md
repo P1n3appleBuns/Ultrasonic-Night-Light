@@ -1,5 +1,7 @@
 # Ultrasonic Night Light
 
+![Alt text](images/IMG_7943.jpg)
+
 This project is an Ultrasonic Night Light that automatically activates LED lights for a set period of time when motion or proximity is detected. It is a simple, beginner-friendly Arduino project that demonstrates the use of ultrasonic sensors for distance measurement and basic automation with microcontrollers.
 
 # Features
